@@ -1,0 +1,25 @@
+{
+  "name": "iso-ccl",
+  "version": "1.0.0",
+  "description": "This will help you to get all ISO country, currency and languages.",
+  "main": "iso-ccl.js",
+  "scripts": {
+    "test": "iso-ccl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanuzzamanbe/iso-ccl.git"
+  },
+  "keywords": [
+    "ISO",
+    "Country",
+    "Currency",
+    "Language"
+  ],
+  "author": "Hasanuzzaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanuzzamanbe/iso-ccl/issues"
+  },
+  "homepage": "https://github.com/hasanuzzamanbe/iso-ccl#readme"
+}
